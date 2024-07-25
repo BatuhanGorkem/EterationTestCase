@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "EterationTestCase",
+    "slug": "eterationtestcase",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.batuhang123.eterationtestcase"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2aee18a1-20f6-43c8-b00d-3459d0a770c2"
+      }
+    },
+    "owner": "batuhang123"
+  }
+}
